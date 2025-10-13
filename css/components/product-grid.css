@@ -1,0 +1,46 @@
+.highlight {
+    grid-area: highlight;
+    background-image: url('/assets/images/grid/card_imagem.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sneaker-purple {
+    grid-area: sneaker-purple;
+    background-image: url('/assets/images/grid/roxo-grid.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.model {
+    grid-area: model;
+    background-color: lightgreen;
+}
+
+.sneaker-colorful {
+    grid-area: sneaker-colorful;
+    background-color: lightcoral;
+}
+
+.sneaker-white {
+    grid-area: sneaker-white;
+    background-color: rgb(212, 63, 63);
+}
+
+.sneaker-gray {
+    grid-area: sneaker-gray;
+    background-color: rgb(22, 32, 118);
+}
+
+.grid-section {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 300px);
+    grid-template-areas:
+        "highlight highlight sneaker-purple sneaker-purple"
+        "highlight highlight model sneaker-colorful"
+        "sneaker-white sneaker-white model sneaker-gray";
+    gap: 30px;
+}

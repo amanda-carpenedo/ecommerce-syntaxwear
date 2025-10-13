@@ -7,6 +7,12 @@ body {
     line-height: 1.5;
 }
 
+main {
+    padding: 2.5rem 0;
+    max-width: 1360px;
+    margin: 0 auto;
+}
+
 /* BOTÕES */
 
 .btn {
