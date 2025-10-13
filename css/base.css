@@ -1,7 +1,7 @@
 /* base.css - estilos base (body, tipografia, links) */
 body {
   font-family: var(--fonte-principal);
-  background-color: var(--cor-fundo);
+  background-color: #ffffff;
   color: var(--cor-texto);
   font-size: 16px;
   line-height: 1.5;
