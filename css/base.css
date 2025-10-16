@@ -13,6 +13,14 @@ main {
     margin: 0 auto;
 }
 
+@media screen and (max-width: 1280px) {
+    main{
+        padding: 0.625rem;
+    }
+}
+
+
+
 /* BOTÕES */
 
 .btn {
