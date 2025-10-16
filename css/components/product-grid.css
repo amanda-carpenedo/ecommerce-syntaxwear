@@ -9,34 +9,34 @@
 
 .highlight {
     grid-area: highlight;
-    background-image: url('/assets/images/grid/card_imagem.jpg');
+    background-image: url('../../assets/images/grid/card_imagem.jpg');
 
 }
 
 .sneaker-purple {
     grid-area: sneaker-purple;
-    background-image: url('/assets/images/grid/roxo-grid.jpg');
+    background-image: url('../../assets/images/grid/roxo-grid.jpg');
 
 }
 
 .model {
     grid-area: model;
-    background-image: url('/assets/images/grid/modelo-feminino-grid.jpg');
+    background-image: url('../../assets/images/grid/modelo-feminino-grid.jpg');
 }
 
 .sneaker-colorful {
     grid-area: sneaker-colorful;
-    background-image: url('/assets/images/grid/colorido-grid.jpg');
+    background-image: url('../../assets/images/grid/colorido-grid.jpg');
 }
 
 .sneaker-white {
     grid-area: sneaker-white;
-    background-image: url('/assets/images/grid/preto-grid.jpg');
+    background-image: url('../../assets/images/grid/preto-grid.jpg');
 }
 
 .sneaker-gray {
     grid-area: sneaker-gray;
-    background-image: url('/assets/images/grid/cinza-grid.jpg');
+    background-image: url('../../assets/images/grid/cinza-grid.jpg');
 }
 
 .grid-section {

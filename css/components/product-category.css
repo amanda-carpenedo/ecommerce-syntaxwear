@@ -34,22 +34,22 @@
 
 
 .casual {
-    background: url('/assets/images/products/casual.jpg') no-repeat center;
+    background: url('../../assets/images/products/casual.jpg') no-repeat center;
     background-size: cover;
 }
 
 .esporte {
-    background: url('/assets/images/products/esporte.jpg') no-repeat center;
+    background: url('../../assets/images/products/esporte.jpg') no-repeat center;
     background-size: cover;
 }
 
 .moderno {
-    background: url('/assets/images/products/moderno.jpg') no-repeat center;
+    background: url('../../assets/images/products/moderno.jpg') no-repeat center;
     background-size: cover;
 }
 
 .futurista {
-    background: url('/assets/images/products/futurista.jpg') no-repeat center;
+    background: url('../../assets/images/products/futurista.jpg') no-repeat center;
     background-size: cover;
 }
 
